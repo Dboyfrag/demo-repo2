@@ -5,3 +5,6 @@ some text
 echo "we are learning devops"
 
 this will be edit #3
+
+## local development
+    1. open index.html in your browser
